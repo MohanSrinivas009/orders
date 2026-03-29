@@ -1,0 +1,18 @@
+{
+  "name": "exp",
+  "version": "1.0.0",
+  "description": "Backend built with express.js",
+  "license": "ISC",
+  "author": "MohanSrinivas",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "run"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "mysql2": "^3.20.0"
+  }
+}
